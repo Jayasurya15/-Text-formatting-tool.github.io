@@ -1,0 +1,35 @@
+p {
+  font-size: 15px;
+  font-family: Arial;
+  line-height: 1.5;
+}
+
+#box {
+  text-align: center;
+  width: 60%;
+  background-color: lavender;
+  border: solid black 1px;
+  border-radius: 10px;
+}
+
+#output {
+  text-align: left;
+}
+
+div {
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+#horizontalShadow, #verticalShadow, #blurShadow {
+  width: 60px;
+}
+
+.js {
+  color: red;
+  background-color: yellow;
+  border-radius: 40px;
+}
